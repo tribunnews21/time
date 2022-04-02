@@ -33,7 +33,7 @@ switch (new Date().getDate()) {
             "dzuhur": "12:00",
             "ashar": "15:14",
             "maghrib": "18:01",
-            "isya": "19:091",
+            "isya": "19:09",
         };
         break;
     case 4:
