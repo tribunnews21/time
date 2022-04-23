@@ -278,7 +278,7 @@ switch (new Date().getDate()) {
         break;
     case 24:
         day = {
-            "imsak": "2204:27",
+            "imsak": "04:27",
             "subuh": "04:37",
             "terbit": "05:50",
             "dhuha": "06:18",
@@ -290,7 +290,7 @@ switch (new Date().getDate()) {
         break;
     case 25:
         day = {
-            "imsak": "2304:27",
+            "imsak": "04:27",
             "subuh": "04:37",
             "terbit": "05:50",
             "dhuha": "06:18",
